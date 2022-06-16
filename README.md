@@ -14,7 +14,9 @@ Some of the Cloud Compute Services offered by Amazon are:
 
 ## Workflow
 
-![alt text](pic/workflow.png)
+<p align="center">
+  <img src="pic/workflow.png">
+</p>
 
 ### Creating a S3 bucket on AWS :
 
