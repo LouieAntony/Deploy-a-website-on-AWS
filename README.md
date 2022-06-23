@@ -2,7 +2,7 @@
 
 AWS, which is Amazon Web Services, is a platform that offers flexible, reliable, scalable, easy-to-use and cost-effective cloud computing solutions.
 AWS is a comprehensive, easy to use computing platform offered by Amazon. The platform is developed with a combination of infrastructure as a service (IaaS), platform as a service (PaaS) and packaged software as a service (SaaS) offerings.
-Amazon Web Services offers a wide range of different business purpose global cloud-based products. The products include storage, databases, analytics, networking, mobile, development tools, enterprise applications, with a pay-as-you-go pricing model.
+Amazon Web Services offers a wide range of different business purpose global cloud-based products. The products include storage, databases, analytics, networking, mobile, development tools, enterprise applications, with a pay-as-you-go pricing model. 
 
 Some of the Cloud Compute Services offered by Amazon are:
 
